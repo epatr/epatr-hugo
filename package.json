@@ -1,0 +1,23 @@
+{
+  "name": "epatr-hugo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epatr/epatr-hugo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epatr/epatr-hugo/issues"
+  },
+  "homepage": "https://github.com/epatr/epatr-hugo#readme",
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha.6"
+  }
+}
